@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/react_test/static/js/main.24950cdd.chunk.js",
+    "main.js.map": "/react_test/static/js/main.24950cdd.chunk.js.map",
+    "runtime-main.js": "/react_test/static/js/runtime-main.54025b81.js",
+    "runtime-main.js.map": "/react_test/static/js/runtime-main.54025b81.js.map",
+    "static/js/2.e0b0c97e.chunk.js": "/react_test/static/js/2.e0b0c97e.chunk.js",
+    "static/js/2.e0b0c97e.chunk.js.map": "/react_test/static/js/2.e0b0c97e.chunk.js.map",
+    "static/js/3.5fff796f.chunk.js": "/react_test/static/js/3.5fff796f.chunk.js",
+    "static/js/3.5fff796f.chunk.js.map": "/react_test/static/js/3.5fff796f.chunk.js.map",
+    "index.html": "/react_test/index.html",
+    "qr-decoding.worker.js": "/react_test/qr-decoding.worker.js",
+    "qr-decoding.worker.js.map": "/react_test/qr-decoding.worker.js.map",
+    "service-worker.js": "/react_test/service-worker.js",
+    "service-worker.js.map": "/react_test/service-worker.js.map",
+    "static/js/2.e0b0c97e.chunk.js.LICENSE.txt": "/react_test/static/js/2.e0b0c97e.chunk.js.LICENSE.txt",
+    "static/media/back.7bf7a56f.svg": "/react_test/static/media/back.7bf7a56f.svg",
+    "static/media/qrOverlay.399bdc2a.png": "/react_test/static/media/qrOverlay.399bdc2a.png",
+    "static/media/tick.e3b91334.png": "/react_test/static/media/tick.e3b91334.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.54025b81.js",
+    "static/js/2.e0b0c97e.chunk.js",
+    "static/js/main.24950cdd.chunk.js"
+  ]
+}
