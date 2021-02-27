@@ -2,8 +2,8 @@
   "theme_color": "#12b188",
   "background_color": "#12b188",
   "display": "standalone",
-  "scope": "/react_test",
-  "start_url": "/react_test",
+  "scope": ".",
+  "start_url": "./#mode=standalone",
   "name": "react_test",
   "short_name": "react_test",
   "icons": [
